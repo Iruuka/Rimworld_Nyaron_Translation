@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+   <Nr_Karambit.label>카람빗</Nr_Karambit.label> 
+   <Nr_Karambit.description>발톱모양의 나이프입니다. 재빠르게 적을 베고 찌를 수 있습니다.</Nr_Karambit.description> 
+   <Nr_Karambit.tools.0.label>손잡이</Nr_Karambit.tools.0.label> 
+   <Nr_Karambit.tools.1.label>칼날</Nr_Karambit.tools.1.label> 
+   <Nr_Karambit.tools.2.label>칼끝</Nr_Karambit.tools.2.label> 
+
+</LanguageData>

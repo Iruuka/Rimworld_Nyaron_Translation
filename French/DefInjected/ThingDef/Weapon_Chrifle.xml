@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+   <Nr_ChRifle.label>샤토얀 저격소총</Nr_ChRifle.label> 
+   <Nr_ChRifle.description>장거리 빔 저격소총입니다.</Nr_ChRifle.description> 
+   <Nr_ChRifle.tools.0.label>개머리판</Nr_ChRifle.tools.0.label> 
+   <Nr_ChRifle.tools.1.label>총열</Nr_ChRifle.tools.1.label> 
+   <NR_SniperBullet.label>빔 소총탄</NR_SniperBullet.label> 
+
+</LanguageData>

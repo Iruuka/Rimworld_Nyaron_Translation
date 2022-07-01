@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <Shockbullet.label>충격탄</Shockbullet.label> 
+   <Shockbullet.deathMessage>{0}의 심장이 마비되었니다.</Shockbullet.deathMessage> 
+   <EnergyBall.label>에너지 충격탄</EnergyBall.label> 
+   <EnergyBall.deathMessage>{0}이 엄청난 운동에너지에 맞아 죽었습니다.</EnergyBall.deathMessage> 
+   <EnergyBullet.label>에너지탄</EnergyBullet.label> 
+   <EnergyBullet.deathMessage>{0}이 에너지탄에 맞아 죽었습니다.</EnergyBullet.deathMessage> 
+   <Nr_Flak.label>파편탄</Nr_Flak.label> 
+   <Nr_Flak.deathMessage>{0}이 갈갈이 찢어졌습니다.</Nr_Flak.deathMessage> 
+
+</LanguageData>

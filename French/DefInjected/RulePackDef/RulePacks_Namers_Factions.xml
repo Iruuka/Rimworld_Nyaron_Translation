@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NR_NamerFaction.rulePack.rulesStrings.0>r_name->[Nr_Faction_First]의 [Nr_Faction_Last] 부족</NR_NamerFaction.rulePack.rulesStrings.0>
+  <NR_NamerFaction.rulePack.rulesStrings.1>r_name->[Nr_Faction_First][Nr_Faction_Last] 부족</NR_NamerFaction.rulePack.rulesStrings.1>
+  <NR_NamerFaction.rulePack.rulesStrings.2>r_name->[Nr_Faction_Last] 부족</NR_NamerFaction.rulePack.rulesStrings.2>
+  <NR_NamerSettlement.rulePack.rulesStrings.1>r_name->[Nr_Town_Objof]의 [Nr_Town_Sbj]</NR_NamerSettlement.rulePack.rulesStrings.1>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+   <Nr_MfoldPdw.label>미니폴드 PDW</Nr_MfoldPdw.label> 
+   <Nr_MfoldPdw.description>에너지탄을 분사하는 개인방어무기 입니다.</Nr_MfoldPdw.description> 
+   <Nr_MfoldPdw.tools.0.label>개머리판</Nr_MfoldPdw.tools.0.label> 
+   <Nr_MfoldPdw.tools.1.label>총열</Nr_MfoldPdw.tools.1.label> 
+   <NR_EnergyBullet.label>에너지탄</NR_EnergyBullet.label> 
+
+</LanguageData>

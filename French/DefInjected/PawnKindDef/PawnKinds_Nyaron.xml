@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+   <Nyaron_Colonist.label>냐론 개척민</Nyaron_Colonist.label> 
+   <Nyaron_Colonist.labelPlural>냐론 개척민들</Nyaron_Colonist.labelPlural> 
+   <Nyaron_Colonist.labelMale>냐론 개척민</Nyaron_Colonist.labelMale> 
+   <Nyaron_Colonist.labelMalePlural>냐론 개척민들</Nyaron_Colonist.labelMalePlural> 
+   <Nyaron_Colonist.labelFemale>냐론 개척민</Nyaron_Colonist.labelFemale> 
+   <Nyaron_Colonist.labelFemalePlural>냐론 개척민들</Nyaron_Colonist.labelFemalePlural> 
+   <Nyaron_Leader.label>냐론 우두머리</Nyaron_Leader.label> 
+   <Nyaron_Leader.labelPlural>냐론 우두머리들</Nyaron_Leader.labelPlural> 
+   <Nyaron_Leader.labelMale>냐론 우두머리</Nyaron_Leader.labelMale> 
+   <Nyaron_Leader.labelMalePlural>냐론 우두머리들</Nyaron_Leader.labelMalePlural> 
+   <Nyaron_Leader.labelFemale>냐론 우두머리</Nyaron_Leader.labelFemale> 
+   <Nyaron_Leader.labelFemalePlural>냐론 우두머리들</Nyaron_Leader.labelFemalePlural> 
+   <Nyaron_Trader.label>냐론 행상인</Nyaron_Trader.label> 
+   <Nyaron_Trader.labelPlural>냐론 행상인들</Nyaron_Trader.labelPlural> 
+   <Nyaron_Trader.labelMale>냐론 행상인</Nyaron_Trader.labelMale> 
+   <Nyaron_Trader.labelMalePlural>냐론 행상인들</Nyaron_Trader.labelMalePlural> 
+   <Nyaron_Trader.labelFemale>냐론 행상인</Nyaron_Trader.labelFemale> 
+   <Nyaron_Trader.labelFemalePlural>냐론 행상인들</Nyaron_Trader.labelFemalePlural> 
+   <NyaronSlave.label>냐론 노예</NyaronSlave.label> 
+   <NyaronSlave.labelPlural>냐론 노예들</NyaronSlave.labelPlural> 
+   <NyaronSlave.labelMale>냐론 노예</NyaronSlave.labelMale> 
+   <NyaronSlave.labelMalePlural>냐론 노예들</NyaronSlave.labelMalePlural> 
+   <NyaronSlave.labelFemale>냐론 노예</NyaronSlave.labelFemale> 
+   <NyaronSlave.labelFemalePlural>냐론 노예들</NyaronSlave.labelFemalePlural> 
+   <NyaronRefugee.label>냐론 피난민</NyaronRefugee.label> 
+   <NyaronRefugee.labelPlural>냐론 피난민들</NyaronRefugee.labelPlural> 
+   <NyaronRefugee.labelMale>냐론 피난민</NyaronRefugee.labelMale> 
+   <NyaronRefugee.labelMalePlural>냐론 피난민들</NyaronRefugee.labelMalePlural> 
+   <NyaronRefugee.labelFemale>냐론 피난민</NyaronRefugee.labelFemale> 
+   <NyaronRefugee.labelFemalePlural>냐론 피난민들</NyaronRefugee.labelFemalePlural> 
+   <Nyaron_Soldier_Light.label>냐론 척후병</Nyaron_Soldier_Light.label> 
+   <Nyaron_Soldier_Light.labelPlural>냐론 척후병들</Nyaron_Soldier_Light.labelPlural> 
+   <Nyaron_Soldier_Light.labelMale>냐론 척후병</Nyaron_Soldier_Light.labelMale> 
+   <Nyaron_Soldier_Light.labelMalePlural>냐론 척후병들</Nyaron_Soldier_Light.labelMalePlural> 
+   <Nyaron_Soldier_Light.labelFemale>냐론 척후병</Nyaron_Soldier_Light.labelFemale> 
+   <Nyaron_Soldier_Light.labelFemalePlural>냐론 척후병들</Nyaron_Soldier_Light.labelFemalePlural> 
+   <Nyaron_Soldier.label>냐론 전사</Nyaron_Soldier.label> 
+   <Nyaron_Soldier.labelPlural>냐론 전사들</Nyaron_Soldier.labelPlural> 
+   <Nyaron_Soldier.labelMale>냐론 전사</Nyaron_Soldier.labelMale> 
+   <Nyaron_Soldier.labelMalePlural>냐론 전사들</Nyaron_Soldier.labelMalePlural> 
+   <Nyaron_Soldier.labelFemale>냐론 전사</Nyaron_Soldier.labelFemale> 
+   <Nyaron_Soldier.labelFemalePlural>냐론 전사들</Nyaron_Soldier.labelFemalePlural> 
+   <Nyaron_Soldier_Elite.label>냐론 투사</Nyaron_Soldier_Elite.label> 
+   <Nyaron_Soldier_Elite.labelPlural>냐론 투사들</Nyaron_Soldier_Elite.labelPlural> 
+   <Nyaron_Soldier_Elite.labelMale>냐론 투사</Nyaron_Soldier_Elite.labelMale> 
+   <Nyaron_Soldier_Elite.labelMalePlural>냐론 투사들</Nyaron_Soldier_Elite.labelMalePlural> 
+   <Nyaron_Soldier_Elite.labelFemale>냐론 투사</Nyaron_Soldier_Elite.labelFemale> 
+   <Nyaron_Soldier_Elite.labelFemalePlural>냐론 투사들</Nyaron_Soldier_Elite.labelFemalePlural>
+   <Nyaron_Ranger_Light.label>냐론 정찰병</Nyaron_Ranger_Light.label> 
+   <Nyaron_Ranger_Light.labelPlural>냐론 정찰병들</Nyaron_Ranger_Light.labelPlural> 
+   <Nyaron_Ranger_Light.labelMale>냐론 정찰병</Nyaron_Ranger_Light.labelMale> 
+   <Nyaron_Ranger_Light.labelMalePlural>냐론 정찰병들</Nyaron_Ranger_Light.labelMalePlural> 
+   <Nyaron_Ranger_Light.labelFemale>냐론 정찰병</Nyaron_Ranger_Light.labelFemale> 
+   <Nyaron_Ranger_Light.labelFemalePlural>냐론 정찰병들</Nyaron_Ranger_Light.labelFemalePlural> 
+   <Nyaron_Ranger.label>냐론 사수</Nyaron_Ranger.label> 
+   <Nyaron_Ranger.labelPlural>냐론 사수들</Nyaron_Ranger.labelPlural> 
+   <Nyaron_Ranger.labelMale>냐론 사수</Nyaron_Ranger.labelMale> 
+   <Nyaron_Ranger.labelMalePlural>냐론 사수들</Nyaron_Ranger.labelMalePlural> 
+   <Nyaron_Ranger.labelFemale>냐론 사수</Nyaron_Ranger.labelFemale> 
+   <Nyaron_Ranger.labelFemalePlural>냐론 사수들</Nyaron_Ranger.labelFemalePlural> 
+   <Nyaron_Ranger_Rocketeer.label>냐론 중화기 사수</Nyaron_Ranger_Rocketeer.label> 
+   <Nyaron_Ranger_Rocketeer.labelPlural>냐론 중화기 사수들</Nyaron_Ranger_Rocketeer.labelPlural> 
+   <Nyaron_Ranger_Rocketeer.labelMale>냐론 중화기 사수</Nyaron_Ranger_Rocketeer.labelMale> 
+   <Nyaron_Ranger_Rocketeer.labelMalePlural>냐론 중화기 사수들</Nyaron_Ranger_Rocketeer.labelMalePlural> 
+   <Nyaron_Ranger_Rocketeer.labelFemale>냐론 중화기 사수</Nyaron_Ranger_Rocketeer.labelFemale> 
+   <Nyaron_Ranger_Rocketeer.labelFemalePlural>냐론 중화기 사수들</Nyaron_Ranger_Rocketeer.labelFemalePlural> 
+   <Nyaron_Ranger_Elite.label>냐론 수호자</Nyaron_Ranger_Elite.label>    
+   <Nyaron_Ranger_Elite.labelPlural>냐론 수호자들</Nyaron_Ranger_Elite.labelPlural> 
+   <Nyaron_Ranger_Elite.labelMale>냐론 수호자</Nyaron_Ranger_Elite.labelMale> 
+   <Nyaron_Ranger_Elite.labelMalePlural>냐론 수호자들</Nyaron_Ranger_Elite.labelMalePlural> 
+   <Nyaron_Ranger_Elite.labelFemale>냐론 수호자</Nyaron_Ranger_Elite.labelFemale> 
+   <Nyaron_Ranger_Elite.labelFemalePlural>냐론 수호자들</Nyaron_Ranger_Elite.labelFemalePlural>   
+
+</LanguageData>

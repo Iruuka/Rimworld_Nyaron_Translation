@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <NyaronFaction.label>냐론 점령지</NyaronFaction.label> 
+   <NyaronFaction.description>냐론이 점령한 구역입니다.</NyaronFaction.description> 
+   <NyaronFaction.pawnsPlural>냐론들</NyaronFaction.pawnsPlural> 
+   <NyaronFaction.leaderTitle>냐론 우두머리</NyaronFaction.leaderTitle> 
+
+</LanguageData>

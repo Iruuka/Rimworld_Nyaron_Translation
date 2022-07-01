@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+   <Nr_Stkbow.label>추적자 활</Nr_Stkbow.label> 
+   <Nr_Stkbow.description>조준도우미가 탑재된 대궁입니다. 소음이 거의 없는 빠른 화살을 발사합니다.</Nr_Stkbow.description> 
+   <Nr_Stkbow.tools.0.label>활대</Nr_Stkbow.tools.0.label>
+   <Nr_StkArrow.label>화살</Nr_StkArrow.label> 
+
+</LanguageData>

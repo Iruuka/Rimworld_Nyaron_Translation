@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+   <NyaronPlayerColony.label>냐론 정착지</NyaronPlayerColony.label> 
+   <NyaronPlayerColony.description>플레이어의 냐론 정착지입니다.</NyaronPlayerColony.description> 
+   <NyaronPlayerColony.pawnsPlural>냐론 정착민</NyaronPlayerColony.pawnsPlural> 
+   <NyaronPlayerColonyTribal.label>Nyaron Tribal-like</NyaronPlayerColonyTribal.label> 
+   <NyaronPlayerColonyTribal.description>Nyaron semi-tribal start. (No research done, but high tech level)</NyaronPlayerColonyTribal.description> 
+   <NyaronPlayerColonyTribal.pawnsPlural>냐론 정착민</NyaronPlayerColonyTribal.pawnsPlural> 
+
+</LanguageData>

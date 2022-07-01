@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <Nr_MiniSword.label>단원자검</Nr_MiniSword.label> 
+   <Nr_MiniSword.description>날의 날카로움을 유지하는 원자기술이 적용된 금속질의 수정검으로, 가벼운 무게와 인격체 장치가 탑재되어 매우 빠른공격을 할 수 있고,두꺼운 갑옷까지도 쉽게 뚫을 수 있다는 믿음을 줍니다.</Nr_MiniSword.description> 
+   <Nr_MiniSword.tools.0.label>손잡이</Nr_MiniSword.tools.0.label> 
+   <Nr_MiniSword.tools.1.label>칼끝</Nr_MiniSword.tools.1.label>
+   <Nr_MiniSword.tools.2.label>칼날</Nr_MiniSword.tools.2.label> 
+
+   <Nr_Xeushammer.label>제이스 해머</Nr_Xeushammer.label> 
+   <Nr_Xeushammer.description>거짓말탐지기가 내장된 전투뿅망치입니다. 충격이 가해지면 전류가 흐릅니다.또한 원거리공격 기능은 없습니다.</Nr_Xeushammer.description> 
+   <Nr_Xeushammer.tools.0.label>손잡이</Nr_Xeushammer.tools.0.label> 
+   <Nr_Xeushammer.tools.1.label>뿅망치머리</Nr_Xeushammer.tools.1.label> 
+   
+   <Nr_PlasmSword.label>불나지마 검</Nr_PlasmSword.label> 
+   <Nr_PlasmSword.description>최첨단 발광체 검입니다. 자나 깨나 불조심!</Nr_PlasmSword.description> 
+   <Nr_PlasmSword.tools.0.label>손잡이</Nr_PlasmSword.tools.0.label> 
+   <Nr_PlasmSword.tools.1.label>칼끝</Nr_PlasmSword.tools.1.label>
+   <Nr_PlasmSword.tools.2.label>칼날</Nr_PlasmSword.tools.2.label> 
+
+</LanguageData>

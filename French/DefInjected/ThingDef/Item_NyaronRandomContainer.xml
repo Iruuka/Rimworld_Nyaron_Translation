@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Nr_EPC.label>EP시리즈 컨테이너</Nr_EPC.label>
+  <Nr_EPC.description>무언가가 들어있는 상자입니다. 겉면에 다음과 같은 글씨가 표준 변방계 문자로 새겨져 있습니다.\n어떤 무기를 획득하게 될 지 기대하세요!\n컨테이너를 개봉함으로써, 귀하는 해당 컨테이너의 청약철회가 불가능하다는 사실을 인지하고 이에 동의합니다.</Nr_EPC.description>
+  <Nr_EPC.comps.CompUsable.useLabel>컨테이너 열기</Nr_EPC.comps.CompUsable.useLabel>
+
+
+</LanguageData>

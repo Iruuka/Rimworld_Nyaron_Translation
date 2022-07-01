@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <NyaronStart_butler.label>집사 모집중!(쉬움)</NyaronStart_butler.label> 
+   <NyaronStart_butler.description>시급 100은짜리 알바. 일획천금의 기회를 잡아 인생을 날로 먹으려 했던 한 멍청이와 변방계에서 만난 고양이의 이야기.</NyaronStart_butler.description> 
+   <NyaronStart_butler.scenario.name>집사 모집중!(쉬움)</NyaronStart_butler.scenario.name> 
+   <NyaronStart_butler.scenario.description>시급 100은짜리 알바. 일획천금의 기회를 잡아 인생을 날로 먹으려 했던 한 멍청이와 변방계에서 만난 고양이의 이야기.</NyaronStart_butler.scenario.description> 
+   <NyaronStart_butler.scenario.summary>한 고양이의 집사를 구한다는 광고입니다.</NyaronStart_butler.scenario.summary> 
+   <NyaronStart_butler.scenario.parts.7.text>반가워요. 당신이 새로운 집사? 고양이는 아마 눈을 뜨면 앞에 있을거에요. 돈은 어쩌냐고요? 일을 무사히 끝내면 계산하도록 하죠. 지금은 빨리 일을 해주셨으면 하네요 호호~\n(이것이 사기라는걸 알아채는데는 오랜시간이 걸리지 않았다)</NyaronStart_butler.scenario.parts.7.text> 
+ 
+</LanguageData>

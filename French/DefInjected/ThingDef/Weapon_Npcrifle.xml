@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+   <Nr_NpcRifle.label>N.P.C 라이플</Nr_NpcRifle.label> 
+   <Nr_NpcRifle.description>대인 제압용으로 만들어진 번화계 소총입니다. 메카노이드랑 곤충에겐 효율적이지 않습니다.</Nr_NpcRifle.description> 
+   <Nr_NpcRifle.tools.0.label>개머리판</Nr_NpcRifle.tools.0.label> 
+   <Nr_NpcRifle.tools.1.label>총열</Nr_NpcRifle.tools.1.label> 
+   <NR_LasBullet.label>충격탄</NR_LasBullet.label> 
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<!-- 꼬리 있음 -->
+
+  <Nyaron.corePart.parts.left_lower_shoulder.customLabel>왼쪽 아래 어깨</Nyaron.corePart.parts.left_lower_shoulder.customLabel>
+  <Nyaron.corePart.parts.right_lower_shoulder.customLabel>오른쪽 아래 어깨</Nyaron.corePart.parts.right_lower_shoulder.customLabel>
+  <Nyaron.corePart.parts.left_chest_cavity.customLabel>왼쪽 흉강</Nyaron.corePart.parts.left_chest_cavity.customLabel>
+  <Nyaron.corePart.parts.right_chest_cavity.customLabel>오른쪽 흉강</Nyaron.corePart.parts.right_chest_cavity.customLabel>
+  <Nyaron.corePart.parts.left_abdominal_cavity.customLabel>왼쪽 복강</Nyaron.corePart.parts.left_abdominal_cavity.customLabel>
+  <Nyaron.corePart.parts.right_abdominal_cavity.customLabel>오른쪽 복강</Nyaron.corePart.parts.right_abdominal_cavity.customLabel>
+  <Nyaron.corePart.parts.upper_back.customLabel>윗등</Nyaron.corePart.parts.upper_back.customLabel>
+  <Nyaron.corePart.parts.lower_back.customLabel>아랫등</Nyaron.corePart.parts.lower_back.customLabel>
+
+</LanguageData>

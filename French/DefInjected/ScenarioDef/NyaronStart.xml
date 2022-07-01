@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <NyaronStart.label>부서진 상선(냐론)</NyaronStart.label> 
+   <NyaronStart.description>갑작스러운 사고로 행성과 행성을 오가던 상선 하나가 심각한 피해를 입었습니다.\n상선이 부서지는 와중에 행운아들을 실은 동면포드들이 함선으로부터 분리되었습니다.</NyaronStart.description> 
+   <NyaronStart.scenario.name>부서진 상선(냐론)</NyaronStart.scenario.name> 
+   <NyaronStart.scenario.description>갑작스러운 사고로 행성과 행성을 오가던 상선 하나가 심각한 피해를 입었습니다.\n상선이 부서지는 와중에 행운아들을 실은 동면포드들이 함선으로부터 분리되었습니다.</NyaronStart.scenario.description> 
+   <NyaronStart.scenario.summary>원자로에 심각한 손상. 분리 프로토콜 이행.</NyaronStart.scenario.summary> 
+   <NyaronStart.scenario.parts.11.text>잠시 후,동면포드들이 행성표면에 안착 했습니다.</NyaronStart.scenario.parts.11.text> 
+
+</LanguageData>

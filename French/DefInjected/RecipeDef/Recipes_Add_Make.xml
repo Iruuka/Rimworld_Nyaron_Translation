@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <Make_Nr_CatHoodie.label>고양이 후드티 제작</Make_Nr_CatHoodie.label> 
+   <Make_Nr_CatHoodie.description>고양이 후드티를 제작합니다.</Make_Nr_CatHoodie.description> 
+   <Make_Nr_CatHoodie.jobString>고양이 후드티 제작</Make_Nr_CatHoodie.jobString> 
+
+   <Make_Nr_CatJacket.label>전투 재킷 제작</Make_Nr_CatJacket.label> 
+   <Make_Nr_CatJacket.description>전투 재킷을 제작합니다.</Make_Nr_CatJacket.description> 
+   <Make_Nr_CatJacket.jobString>전투 재킷 제작</Make_Nr_CatJacket.jobString> 
+
+   <Make_Nr_PowerArmor.label>냐론 파워아머 제작</Make_Nr_PowerArmor.label> 
+   <Make_Nr_PowerArmor.description>냐론 파워아머를 제작합니다.</Make_Nr_PowerArmor.description> 
+   <Make_Nr_PowerArmor.jobString>냐론 파워아머 제작</Make_Nr_PowerArmor.jobString> 
+
+   <Make_Nr_Clawbar.label>냐냥발 제작</Make_Nr_Clawbar.label> 
+   <Make_Nr_Clawbar.description>냐냥발을 제작합니다.</Make_Nr_Clawbar.description> 
+   <Make_Nr_Clawbar.jobString> 냐냥발 제작</Make_Nr_Clawbar.jobString> 
+
+   <Make_Nr_CriPistol.label>크리바이트 권총 제작</Make_Nr_CriPistol.label> 
+   <Make_Nr_CriPistol.description>크리바이트 권총을 제작합니다.</Make_Nr_CriPistol.description> 
+   <Make_Nr_CriPistol.jobString>크리바이트 권총 제작</Make_Nr_CriPistol.jobString> 
+
+   <Make_Nr_Karambit.label>카람빗 제작</Make_Nr_Karambit.label> 
+   <Make_Nr_Karambit.description>카람빗을 제작합니다.</Make_Nr_Karambit.description> 
+   <Make_Nr_Karambit.jobString>카람빗 제작</Make_Nr_Karambit.jobString> 
+
+   <Make_Nr_NpcRifle.label>N.P.C 라이플 제작</Make_Nr_NpcRifle.label> 
+   <Make_Nr_NpcRifle.description>N.P.C 라이플을 제작합니다.</Make_Nr_NpcRifle.description> 
+   <Make_Nr_NpcRifle.jobString>N.P.C 라이플 제작</Make_Nr_NpcRifle.jobString> 
+
+
+</LanguageData>

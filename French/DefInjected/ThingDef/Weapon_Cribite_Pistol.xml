@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+   <Nr_CriPistol.label>크리바이트 권총</Nr_CriPistol.label> 
+   <Nr_CriPistol.description>고속의 에너지탄으로 적을 찢는 무기입니다. 근거리에서 효과적입니다.</Nr_CriPistol.description> 
+   <Nr_CriPistol.tools.0.label>손잡이</Nr_CriPistol.tools.0.label> 
+   <Nr_CriPistol.tools.1.label>총열</Nr_CriPistol.tools.1.label> 
+   <NR_EnergyBall.label>에너지 구체</NR_EnergyBall.label> 
+
+</LanguageData>

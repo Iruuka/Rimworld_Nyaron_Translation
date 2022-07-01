@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+   <Nr_FlakCaster.label>마카이로두스 플랙캐스터</Nr_FlakCaster.label> 
+   <Nr_FlakCaster.description>대규모 진압을 위해 제작된 유탄살포기입니다.</Nr_FlakCaster.description> 
+   <Nr_FlakCaster.tools.0.label>포신</Nr_FlakCaster.tools.0.label> 
+   <NR_Flak.label>유탄</NR_Flak.label> 
+
+</LanguageData>

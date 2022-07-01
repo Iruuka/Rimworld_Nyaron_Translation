@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <Nyaron_Child_Incubator.title>Bébé Incubé Nyaron</Nyaron_Child_Incubator.title> 
+   <Nyaron_Child_Incubator.titleShort>Incubé Nyaron</Nyaron_Child_Incubator.titleShort> 
+   <Nyaron_Child_Incubator.baseDescription>un embrion de Nyaron ayant grandit de 12 ans en une semaine. Ses souvenirs sont écris grâce au mécanite.</Nyaron_Child_Incubator.baseDescription> 
+   <Nyaron_Adult_Leader1.title>Chef Nyaron</Nyaron_Adult_Leader1.title> 
+   <Nyaron_Adult_Leader1.titleShort>Chef Nyaron</Nyaron_Adult_Leader1.titleShort> 
+   <Nyaron_Adult_Leader1.baseDescription>[PAWN_nameDef] est le chef des nyarons nomades. Aucune règle ou loi, seulement celle du plus fort.</Nyaron_Adult_Leader1.baseDescription> 
+   <Nyaron_Adult_Soldier.title>Soldat Nyaron</Nyaron_Adult_Soldier.title> 
+   <Nyaron_Adult_Soldier.titleShort>Soldat Nyaron</Nyaron_Adult_Soldier.titleShort> 
+   <Nyaron_Adult_Soldier.baseDescription>[PAWN_nameDef] connait de nombreux armes, tactique et d'art martiaux nyan-nyan. Elle est capable d'utiliser n'importe quelle arme au combat.</Nyaron_Adult_Soldier.baseDescription> 
+   <Nyaron_Adult_Dancer.title>Danceur Nyaron</Nyaron_Adult_Dancer.title> 
+   <Nyaron_Adult_Dancer.titleShort>Danceur Nyaron</Nyaron_Adult_Dancer.titleShort> 
+   <Nyaron_Adult_Dancer.baseDescription>[PAWN_nameDef] ne fait que danser. Au moins, on s'ennuie moins.</Nyaron_Adult_Dancer.baseDescription> 
+   <Nyaron_Adult_Singer.title>Jeune Idole Nyaron</Nyaron_Adult_Singer.title> 
+   <Nyaron_Adult_Singer.titleShort>Jeune Idole Nyaron</Nyaron_Adult_Singer.titleShort> 
+   <Nyaron_Adult_Singer.baseDescription>[PAWN_nameDef] devait apparaître dans un programme TV d'une grande agence. Cette apparition a été annulée, mais elle croit encore que c'est un coup de l'agence.</Nyaron_Adult_Singer.baseDescription> 
+   <Nyaron_Adult_Hunter.title>Nyaron Rat Hunter</Nyaron_Adult_Hunter.title> 
+   <Nyaron_Adult_Hunter.titleShort>Nyaron Rat Hunter</Nyaron_Adult_Hunter.titleShort> 
+   <Nyaron_Adult_Hunter.baseDescription>[PAWN_nameDef] was good at handling guns and never returned empty-handed when hunting. But every time she comes back late at night, she enjoys playing with her prey, especially poor rats.</Nyaron_Adult_Hunter.baseDescription> 
+   <Nyaron_Adult_Police.title>Policière Nyaron</Nyaron_Adult_Police.title> 
+   <Nyaron_Adult_Police.titleShort>Policière Nyaron</Nyaron_Adult_Police.titleShort> 
+   <Nyaron_Adult_Police.baseDescription>[PAWN_nameDef] a été enrolée de force par la police car pas assez d'agent. La plupart des policiers une vie de famille, alors la nuit, la sécurité était laissée aux robots ou à [PAWN_nameDef].</Nyaron_Adult_Police.baseDescription> 
+   <Nyaron_Adult_Exproler.title>Membre d'expédition Nyaron</Nyaron_Adult_Exproler.title> 
+   <Nyaron_Adult_Exproler.titleShort>Membre d'expédition Nyaron</Nyaron_Adult_Exproler.titleShort> 
+   <Nyaron_Adult_Exproler.baseDescription>[PAWN_nameDef] s'occupait de l'investigation de zones dangereuses. Sa situation actuelle est un mystère...</Nyaron_Adult_Exproler.baseDescription> 
+   <Nyaron_Adult_CustomMaid.title>Soubrette customisée Nyaron</Nyaron_Adult_CustomMaid.title> 
+   <Nyaron_Adult_CustomMaid.titleShort>Soubrette Nyaron</Nyaron_Adult_CustomMaid.titleShort> 
+   <Nyaron_Adult_CustomMaid.baseDescription>[PAWN_nameDef] devait passer de beaux jour au "The Empire", le plus grand club de l'univers. Elle finira tout de même par trouver un maitre dans ce monde.</Nyaron_Adult_CustomMaid.baseDescription> 
+   <Nyaron_Adult_Petgirl.title>Fille de compagnie Nyaron</Nyaron_Adult_Petgirl.title> 
+   <Nyaron_Adult_Petgirl.titleShort>Fille de compagnie</Nyaron_Adult_Petgirl.titleShort> 
+   <Nyaron_Adult_Petgirl.baseDescription>Miaou.</Nyaron_Adult_Petgirl.baseDescription> 
+   <Nyaron_Adult_Nekopara.title>Chat Pâtissier Nyaron</Nyaron_Adult_Nekopara.title> 
+   <Nyaron_Adult_Nekopara.titleShort>Chat Pâtissier</Nyaron_Adult_Nekopara.titleShort> 
+   <Nyaron_Adult_Nekopara.baseDescription>Il peut arriver que des boulangeries utilisent des chats comme personnel. [PAWN_nameDef] devait faire partie de ces chats.</Nyaron_Adult_Nekopara.baseDescription> 
+   <Nyaron_Adult_Abandoned_Cat.title>Chat Abandonnée Nyaron</Nyaron_Adult_Abandoned_Cat.title> 
+   <Nyaron_Adult_Abandoned_Cat.titleShort>Chat Abandonnée</Nyaron_Adult_Abandoned_Cat.titleShort> 
+   <Nyaron_Adult_Abandoned_Cat.baseDescription>A cause de la violence de son maître, [PAWN_nameDef] s'est enfuie dans un cargo pour "s'abandonner".</Nyaron_Adult_Abandoned_Cat.baseDescription>
+	<Nyaron_Adult_Mobile_Crew.title>Infanterie Mobile Nyraon</Nyaron_Adult_Mobile_Crew.title> 
+   <Nyaron_Adult_Mobile_Crew.titleShort>Infanterie Mobile</Nyaron_Adult_Mobile_Crew.titleShort> 
+   <Nyaron_Adult_Mobile_Crew.baseDescription>[PAWN_nameDef] faisait partie de l'Infanterie Nyraon, un concentré de soldat d'élite.</Nyaron_Adult_Mobile_Crew.baseDescription>   
+   <Nyaron_Adult_Nurse.title>Infirmière Nyaron</Nyaron_Adult_Nurse.title> 
+   <Nyaron_Adult_Nurse.titleShort>Infirmière Nyaron</Nyaron_Adult_Nurse.titleShort> 
+   <Nyaron_Adult_Nurse.baseDescription>[PAWN_nameDef] est habituée à soigner les blessés et malades. ELle devait être transférée dans un hopital très réputé, quand son vaisseau fut attaqué et détourné.</Nyaron_Adult_Nurse.baseDescription>
+   <Nyaron_Adult_Builder.title>Bâtisseur Nyaron</Nyaron_Adult_Builder.title> 
+   <Nyaron_Adult_Builder.titleShort>Bâtisseur Nyaron</Nyaron_Adult_Builder.titleShort> 
+   <Nyaron_Adult_Builder.baseDescription>[PAWN_nameDef] était prévue pour être un bâtisseur, très rare pour son espèce. Elle fait partie d'un groupe en charge des tâches les plus difficiles.</Nyaron_Adult_Builder.baseDescription>
+   <Nyaron_Adult_Sellsword.title>Marchande Nyaron</Nyaron_Adult_Sellsword.title> 
+   <Nyaron_Adult_Sellsword.titleShort>Marchande Nyaron</Nyaron_Adult_Sellsword.titleShort> 
+   <Nyaron_Adult_Sellsword.baseDescription>[PAWN_nameDef] adore l'argent. Abandonnée sur une planète inconnue, elle continuera de vendre pour son profit.</Nyaron_Adult_Sellsword.baseDescription>
+   
+   <Nyaron_Adult_Narco.title>Chives</Nyaron_Adult_Narco.title> 
+   <Nyaron_Adult_Narco.titleShort>Chives</Nyaron_Adult_Narco.titleShort> 
+   <Nyaron_Adult_Narco.baseDescription>Why was it named Chives? Is it because her hair is green?.</Nyaron_Adult_Narco.baseDescription>
+
+</LanguageData>
